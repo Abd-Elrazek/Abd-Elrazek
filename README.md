@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioagiani/)](https://www.linkedin.com/in/abdelrazek-nageh-457511178/)
  [![Twitter Badge](https://img.shields.io/badge/-abdelrazek_n-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/abdelrazek_n/)](https://www.twitter.com/abdelrazek_n/)
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Abd-Elrazek)](https://github.com/Abd-Elrazek)
- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=)]  I'd like to know end to end things about most of the software application. (I'd like to know end to end things about most of the software application.) <p align='left'> Hi, I'm Software Engineering that I wanna applies the principles of software engineering to the design, development,maintenance, testing, and evaluation of computer software.
+ [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=)] (I'd like to know end to end things about most of the software application.) <p align='left'> Hi, I'm Software Engineering that I wanna applies the principles of software engineering to the design, development,maintenance, testing, and evaluation of computer software.
 Be Happy.</p><p align='left'> You can view my resume <a href='http://Abdelrazek.dx.am  ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Abd-Elrazek alt=Abd-Elrazek /> </p>
